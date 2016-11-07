@@ -115,6 +115,6 @@ css库：http://metroui.org.ua/
 
 
 4.其他设计理念的UI库
-- jqueryui以及其他以jquery的UI库：http://jqueryui.com/，以jQuery为基础的UI库。
-- Ant Design:https://ant.design,来自蚂蚁金服UI设计理念，有一整套设计开发框架。
-- Amaze UI：http://amazeui.org/，来自云适配团队，以移动端优先。
+- jqueryui以及其他以jquery的UI库：以jQuery为基础的UI库。http://jqueryui.com
+- Ant Design: 来自蚂蚁金服UI设计理念，有一整套设计开发框架。https://ant.design
+- Amaze UI：来自云适配团队，以移动端优先。http://amazeui.org
