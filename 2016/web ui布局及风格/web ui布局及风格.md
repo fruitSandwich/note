@@ -55,7 +55,7 @@ css库：http://metroui.org.ua/
 &#160; &#160; &#160; &#160;苹果并未给自iOS 7开始风格大变的设计语言提供一个官方名称，我们暂且称之为Apple Design。Apple Design由最初的拟物化转变为如今所谓的“扁平化”，遵循的设计原则为：
 > Clarity, Deference, Depth.//清晰,谦逊,深度
 
-![image](http://www.septillion.cn/wp-content/uploads/2014/06/mail_hero_2x-1024x723.jpg)
+![image](https://github.com/fruitSandwich/note/blob/master/2016/web%20ui%E5%B8%83%E5%B1%80%E5%8F%8A%E9%A3%8E%E6%A0%BC/%E9%A3%8E%E6%A0%BC/apple/apple.jpg?raw=true)
 
 &#160; &#160; &#160; &#160;虽然直接实现apple design的UI库很少，但采用了扁平化设计思想的UI设计却是如今UI设计的主流。比如Twitter的Bootstrap就是目前最受欢迎的UI框架。
 
