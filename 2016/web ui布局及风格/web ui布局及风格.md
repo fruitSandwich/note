@@ -97,13 +97,13 @@ css库：http://metroui.org.ua/
 
 **5. 常用UI部件、组件库**
 
-1. 基于BootStrap的UI库
+1.基于BootStrap的UI库
 - Bootstrap:http://getbootstrap.com/
 - Flat UI，基于BootStrap的扁平化框架：https://designmodo.com/flat/
 - BootMetro，基于 Bootstrap的Metro 风格CSS框架：http://www.marcellop.com/bootmetro/
 
 
-2. 实现Material Design设计风格的UI库
+2.实现Material Design设计风格的UI库
 - Materialize：http://materializecss.com/
 - Material-UI：http://material-ui.com/
 - MUI：https://www.muicss.com/
